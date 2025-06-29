@@ -20,11 +20,11 @@ Only one solution to all your problems - "ASSET LEDGER"
 
 This application is a desktop application made for windows and supports windows 7 and upper versions.
 
-**Asset Ledger 2.0 :**
+**Asset Ledger 2.1 :**
 
 ![Asset Ledger Screen View](home 2.0.PNG)
 
-**The latest working version of our application is *Asset Ledger 2.0* dated(03-10-2024)**
+**The latest working version of our application is *Asset Ledger 2.1* dated(03-03-2025)**
 
 Other Versions:
 
@@ -32,20 +32,11 @@ Asset Ledger 1.0 , release 14-09-2024
 
 Asset Ledger 1.2 , release 19-09-2024
 
-## **New Launches in Asset Ledger 2.0**
-
-![Asset ledger 2.0 Home](home 2.0.PNG)
-
-In this version, We have added an option of "Money" where users can add their incomes and expenses and keep record of their monthly budget.
-
-Also , we are introducing **Asset Ledger Dashboard** for the first time in this version . Here you can see the summary of your assets in an orderly format with a category wise distribution.
-
-In one table you will be displayed all your assets and their total in the bottom right. Similarly , in the next table you will be displayed all your liabilities and their total in bottom right.
-
+Asset Ledger 2.0 , release 03-10-2024
 
 ### **Downlaods**
 
-[Click here to download Asset Ledger 2.0 installer.](https://assetledger.github.io/aboutus/downloads.html)
+[Click here to download Asset Ledger 2.1 installer.](https://assetledger.github.io/aboutus/downloads.html)
 
 ### **About The App**
 It is like a digital passbook which compiles your scattered data at one place for future reference with a user friendly GUI
